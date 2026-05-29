@@ -3,7 +3,7 @@ The High-resolution Airborne PolSAR vehicle recognition dataset (ATR-HAPVR) can 
 
 # Citation
 Please cite this paper if you want to use it in your work.
-
+```bibtex
 @article{
 
   deng2026polsar,
@@ -60,3 +60,4 @@ Please cite this paper if you want to use it in your work.
   url          = https://doi.org/10.57760/sciencedb.j00001.01627
   
 }
+```
