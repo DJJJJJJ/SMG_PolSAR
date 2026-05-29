@@ -1,6 +1,5 @@
 # 《PolSAR vehicle recognition via scattering mechanism-driven hybrid attention》
-The High-resolution Airborne PolSAR vehicle recognition dataset (ATR-HAPVR) can be found in
-https://doi.org/10.57760/sciencedb.j00001.01627 “here”.
+The High-resolution Airborne PolSAR vehicle recognition dataset (ATR-HAPVR) can be found in [sciencedb](https://doi.org/10.57760/sciencedb.j00001.01627 "ATR-HAPVR").
 
 # Citation
 Please cite this paper if you want to use it in your work.
